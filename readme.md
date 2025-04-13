@@ -82,9 +82,11 @@ DB_PORT=3306
 ---
 
 ### 4⃣️ Install Dependencies and Start Server
+Inside the `my-api/` folder, run:
+
 ```bash
-npm install
-node server.js
+npm install express mysql2 cors body-parser dotenv
+
 ```
 
 ✅ You should see:
