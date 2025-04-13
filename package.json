@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.0"
+  },
+  "name": "mid-term-web-app-template-angular-rest-crud",
+  "version": "1.0.0",
+  "description": "This project is a responsive **ebook landing page** that dynamically displays reviews using a custom-built **REST API** served by **Node.js** and consumed via **AngularJS**.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
